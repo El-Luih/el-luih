@@ -13,19 +13,19 @@ Originally from Tegucigalpa, Honduras 🇭🇳 | Bilingual: English / Spanish
 ## 🛠️ Skills & Technologies
 
 **Languages**  
-`Python` `JavaScript` `TypeScript` `C#` `HTML5` `SQL`
+`Python` `JavaScript` `TypeScript` `C#` `HTML5` `SQL` `PHP` `Ren'Py`
 
 **Frameworks & Runtimes**  
-`Node.js` `Express.js` `React.js` `Vite`
+`Node.js` `Express.js` `React.js` `Vite` `Laravel`
 
 **Databases**  
 `PostgreSQL` `MySQL`
 
 **Tools & DevOps**  
-`Git` `GitHub` `Docker` `NPM` `PNPM`
+`Git` `GitHub` `Docker` `NPM` `PNPM` `Slack`
 
 **Deployment & Hosting**  
-`Netlify` `Railway` `Render`
+`Netlify` `Railway` `Render` `Wix` `Wix Toolset`
 
 **APIs & Integration**  
 `REST APIs` `JSON` `XML`
@@ -70,6 +70,15 @@ A fun e-commerce-style website where users can symbolically "claim" a star as a 
 ---
 
 ## 💼 Experience
+
+**Software Engineeer** - SpiritElf *(2026–present)*  
+• Full-stack development using Python, JavaScript, and Wix for client-facing web applications
+• Programmed 10+ interactive games using Ren'Py, a Python-based visual novel and game engine, embedded directly into
+Wix websites for end-user deployment
+• Contributed to the maintenance and modernization of legacy PHP systems, updating outdated codebases to meet current
+functionality and performance standards
+• Wix platform development including site configuration, dynamic content, and custom integrations
+• Building and ma
 
 **Customer Service Supervisor** — Startek CX *(2022–2024)*  
 Led a team of 15 agents, achieving a 25% improvement in team performance metrics and a 95% QA compliance rate.
