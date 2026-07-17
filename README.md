@@ -5,15 +5,14 @@ I'm a **Full-Stack Web Developer** and **Software Development student** at Brigh
 Originally from Tegucigalpa, Honduras 🇭🇳 | Bilingual: English / Spanish
 
 📫 luisalejandro632@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/luis-maradiaga-59231b293/)  
-🌐 [GitHub](https://github.com/El-Luih)
+🔗 [LinkedIn](https://www.linkedin.com/in/luis-maradiaga-59231b293/)
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 **Languages**  
-`Python` `JavaScript` `TypeScript` `C#` `HTML5` `SQL` `PHP` `Ren'Py`
+`Python` `JavaScript` `TypeScript` `C#` `HTML5` `SQL` `PHP` `Ren'Py` `Ruby on Rails` `Ruby`
 
 **Frameworks & Runtimes**  
 `Node.js` `Express.js` `React.js` `Vite` `Laravel`
@@ -47,21 +46,21 @@ A backend-driven web application mock-up of a real e-commerce app sold as a free
 
 ---
 
-### 🌎 [Touristic App Mockup](https://github.com/El-Luih/wdd330-final-project-guatemala-touristic-guide) · [Live Demo](https://el-luih.github.io/wdd330-final-project-guatemala-touristic-guide/)
+### 🌎 [Touristic App Mockup](https://github.com/El-Luih/wdd330-final-project-guatemala-touristic-guide)
 A dynamic web application mock-up of a real touristic app sold as a freelancer, featuring destination exploration, a live weather forecast integration, cultural events, and local cuisine sections.
 
 **Tech stack:** `JavaScript` `HTML5` `CSS` `Vite` `REST APIs`
 
 ---
 
-### 🏛️ [Auction House Mockup](https://el-luih.github.io/wdd231/final/auctions.html) · [Source](https://github.com/El-Luih/wdd231/tree/main/final)
+### 🏛️ [Auction House Mockup](https://el-luih.github.io/el-luih-auction-mockup/)
 A multi-page auction house website mock-up of a real app sold as a freelancer featuring a fictional high-end auctioneers & appraisers firm. Includes filterable auction listings by status, month, and year, an interactive map for auction locations, and a full services section.
 
 **Tech stack:** `JavaScript` `HTML5` `CSS`
 
 ---
 
-### ⭐ [WDD 131 — Cosm-ish (Star Gifting Platform)](https://el-luih.github.io/wdd131/cosm-ish/) · [Source](https://github.com/El-Luih/wdd131/tree/main/cosm-ish)
+### ⭐ [WDD 131 — Cosm-ish (Star Gifting Platform)](https://el-luih.github.io/wdd131/cosm-ish/)
 A fun e-commerce-style website where users can symbolically "claim" a star as a novelty gift. Features a star catalog, a purchase contact form, and a dynamic customer review section.
 
 **Tech stack:** `JavaScript` `HTML5` `CSS`
