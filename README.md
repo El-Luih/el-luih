@@ -40,7 +40,7 @@ Originally from Tegucigalpa, Honduras 🇭🇳 | Bilingual: English / Spanish
 
 ## 🚀 Featured Projects
 
-### 🔧 [Concesionary E-commerce Mockup](https://github.com/El-Luih/cse-340-starter-2)
+### 🔧 [Concesionary E-commerce Mockup](https://vehicles-e-commerce-mockup-main.onrender.com)
 A backend-driven web application mock-up of a real e-commerce app sold as a freelancer, built with a full MVC architecture. Features server-side rendering with EJS, RESTful routing with Express.js, and a PostgreSQL database for persistent data storage.
 
 **Tech stack:** `Node.js` `Express.js` `PostgreSQL` `EJS` `CSS` `PNPM`
