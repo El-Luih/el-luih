@@ -40,23 +40,22 @@ Originally from Tegucigalpa, Honduras 🇭🇳 | Bilingual: English / Spanish
 
 ## 🚀 Featured Projects
 
-### 🔧 [CSE 340 — Full-Stack Node.js Web Application](https://github.com/El-Luih/cse-340-starter-2)
-A backend-driven web application built with a full MVC architecture. Features server-side rendering with EJS, RESTful routing with Express.js, and a PostgreSQL database for persistent data storage.
+### 🔧 [Concesionary E-commerce Mockup](https://github.com/El-Luih/cse-340-starter-2)
+A backend-driven web application mock-up of a real e-commerce app sold as a freelancer, built with a full MVC architecture. Features server-side rendering with EJS, RESTful routing with Express.js, and a PostgreSQL database for persistent data storage.
 
-**Tech stack:** `Node.js` `Express.js` `PostgreSQL` `EJS` `CSS` `PNPM`  
-> 🚧 Live demo currently offline — re-deploying to Render shortly.
+**Tech stack:** `Node.js` `Express.js` `PostgreSQL` `EJS` `CSS` `PNPM`
 
 ---
 
-### 🌎 [WDD 330 — Guatemala Touristic Guide](https://github.com/El-Luih/wdd330-final-project-guatemala-touristic-guide) · [Live Demo](https://el-luih.github.io/wdd330-final-project-guatemala-touristic-guide/)
-A dynamic frontend tourism web application for Guatemala, featuring destination exploration, a live weather forecast integration, cultural events, and local cuisine sections.
+### 🌎 [Touristic App Mockup](https://github.com/El-Luih/wdd330-final-project-guatemala-touristic-guide) · [Live Demo](https://el-luih.github.io/wdd330-final-project-guatemala-touristic-guide/)
+A dynamic web application mock-up of a real touristic app sold as a freelancer, featuring destination exploration, a live weather forecast integration, cultural events, and local cuisine sections.
 
 **Tech stack:** `JavaScript` `HTML5` `CSS` `Vite` `REST APIs`
 
 ---
 
-### 🏛️ [WDD 231 — Fencer's Collection (Auction House)](https://el-luih.github.io/wdd231/final/auctions.html) · [Source](https://github.com/El-Luih/wdd231/tree/main/final) · [Video Demo](https://www.youtube.com/watch?v=dyi83neUd38)
-A multi-page auction house website for a fictional high-end auctioneers & appraisers firm. Includes filterable auction listings by status, month, and year, an interactive map for auction locations, and a full services section.
+### 🏛️ [Auction House Mockup](https://el-luih.github.io/wdd231/final/auctions.html) · [Source](https://github.com/El-Luih/wdd231/tree/main/final)
+A multi-page auction house website mock-up of a real app sold as a freelancer featuring a fictional high-end auctioneers & appraisers firm. Includes filterable auction listings by status, month, and year, an interactive map for auction locations, and a full services section.
 
 **Tech stack:** `JavaScript` `HTML5` `CSS`
 
@@ -78,7 +77,6 @@ Wix websites for end-user deployment
 • Contributed to the maintenance and modernization of legacy PHP systems, updating outdated codebases to meet current
 functionality and performance standards
 • Wix platform development including site configuration, dynamic content, and custom integrations
-• Building and ma
 
 **Customer Service Supervisor** — Startek CX *(2022–2024)*  
 Led a team of 15 agents, achieving a 25% improvement in team performance metrics and a 95% QA compliance rate.
