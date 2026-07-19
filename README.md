@@ -49,6 +49,8 @@ A backend-driven web application mock-up of a real e-commerce app sold as a free
 ### 🌎 [Touristic App Mockup]( https://el-luih.github.io/el-luih-touristic-app-mockup/)
 A dynamic web application mock-up of a real touristic app sold as a freelancer, featuring destination exploration, a live weather forecast integration, cultural events, and local cuisine sections.
 
+ATTENTION: The API Key necessary for the mockup to work expired long ago.
+
 **Tech stack:** `JavaScript` `HTML5` `CSS` `Vite` `REST APIs`
 
 ---
