@@ -46,7 +46,7 @@ A backend-driven web application mock-up of a real e-commerce app sold as a free
 
 ---
 
-### 🌎 [Touristic App Mockup](https://github.com/El-Luih/wdd330-final-project-guatemala-touristic-guide)
+### 🌎 [Touristic App Mockup]( https://el-luih.github.io/el-luih-touristic-app-mockup/)
 A dynamic web application mock-up of a real touristic app sold as a freelancer, featuring destination exploration, a live weather forecast integration, cultural events, and local cuisine sections.
 
 **Tech stack:** `JavaScript` `HTML5` `CSS` `Vite` `REST APIs`
